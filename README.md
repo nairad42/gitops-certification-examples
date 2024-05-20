@@ -1,4 +1,4 @@
-# Codefresh GitOps Certification examples
+# Codefresh GitOps Certification example
 
 This repository contains examples for the ArgoCD/GitOps
 certification workshops.
